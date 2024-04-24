@@ -43,3 +43,5 @@ Nakreslete obrázek z prezentace umístěný na slajdu Cvičení. Jednotlivé ob
 ```
 
 
+### 4
+Za využití dvou cyklů, vytvořte šachovnici tzn. v obrazci se bude střídat bílý a černý čtverec.
