@@ -45,3 +45,12 @@ Nakreslete obrázek z prezentace umístěný na slajdu Cvičení. Jednotlivé ob
 
 ### 4
 Za využití dvou cyklů, vytvořte šachovnici tzn. v obrazci se bude střídat bílý a černý čtverec.
+
+### 5
+Upravte své programy tak, aby velikost vykresleného okna definoval uživatel. Pro zjednodušení si vyžádejte jen výšku, nebo šířku. Vygenerovaný obrázek se poměrově přizpůsobí zadané velikosti. 
+
+### 6
+Nakreslete vlajky států:
+* Řecko
+* Norsko
+* Izrael
